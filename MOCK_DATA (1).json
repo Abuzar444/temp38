@@ -1,0 +1,602 @@
+[
+  {
+    "company": "Senger Group",
+    "position": "Chief Design Engineer",
+    "status": "interview",
+    "jobType": "part-time",
+    "createdBy": "669e9365ab977279b89fe28f",
+    "createdAt": "2024-05-17T11:42:20Z"
+  },
+  {
+    "company": "Yundt Group",
+    "position": "Senior Editor",
+    "status": "declined",
+    "jobType": "full-time",
+    "createdBy": "669e9365ab977279b89fe28f",
+    "createdAt": "2024-06-24T18:52:28Z"
+  },
+  {
+    "company": "Torp Inc",
+    "position": "Assistant Professor",
+    "status": "declined",
+    "jobType": "full-time",
+    "createdBy": "669e9365ab977279b89fe28f",
+    "createdAt": "2023-10-06T09:48:24Z"
+  },
+  {
+    "company": "Effertz-Rempel",
+    "position": "Help Desk Operator",
+    "status": "declined",
+    "jobType": "full-time",
+    "createdBy": "669e9365ab977279b89fe28f",
+    "createdAt": "2024-02-28T12:29:01Z"
+  },
+  {
+    "company": "Gibson Group",
+    "position": "Accountant III",
+    "status": "interview",
+    "jobType": "part-time",
+    "createdBy": "669e9365ab977279b89fe28f",
+    "createdAt": "2024-07-03T08:21:21Z"
+  },
+  {
+    "company": "Toy, Moen and Champlin",
+    "position": "Occupational Therapist",
+    "status": "interview",
+    "jobType": "remote",
+    "createdBy": "669e9365ab977279b89fe28f",
+    "createdAt": "2024-04-20T03:59:52Z"
+  },
+  {
+    "company": "Ruecker, Blanda and Bechtelar",
+    "position": "Assistant Manager",
+    "status": "pending",
+    "jobType": "internship",
+    "createdBy": "669e9365ab977279b89fe28f",
+    "createdAt": "2024-02-07T10:46:46Z"
+  },
+  {
+    "company": "Hermann-Little",
+    "position": "Social Worker",
+    "status": "interview",
+    "jobType": "part-time",
+    "createdBy": "669e9365ab977279b89fe28f",
+    "createdAt": "2023-09-02T09:08:43Z"
+  },
+  {
+    "company": "Harber-Mueller",
+    "position": "Office Assistant III",
+    "status": "interview",
+    "jobType": "part-time",
+    "createdBy": "669e9365ab977279b89fe28f",
+    "createdAt": "2023-09-08T11:39:03Z"
+  },
+  {
+    "company": "Murazik-Kshlerin",
+    "position": "Occupational Therapist",
+    "status": "pending",
+    "jobType": "full-time",
+    "createdBy": "669e9365ab977279b89fe28f",
+    "createdAt": "2024-07-08T22:37:03Z"
+  },
+  {
+    "company": "Schmidt Inc",
+    "position": "Internal Auditor",
+    "status": "pending",
+    "jobType": "internship",
+    "createdBy": "669e9365ab977279b89fe28f",
+    "createdAt": "2023-08-27T23:41:46Z"
+  },
+  {
+    "company": "Kuhn-Mitchell",
+    "position": "Food Chemist",
+    "status": "interview",
+    "jobType": "internship",
+    "createdBy": "669e9365ab977279b89fe28f",
+    "createdAt": "2023-10-30T03:48:00Z"
+  },
+  {
+    "company": "Gutmann and Sons",
+    "position": "Account Representative II",
+    "status": "interview",
+    "jobType": "full-time",
+    "createdBy": "669e9365ab977279b89fe28f",
+    "createdAt": "2023-09-19T16:15:55Z"
+  },
+  {
+    "company": "Fahey, Crist and Tremblay",
+    "position": "Senior Editor",
+    "status": "pending",
+    "jobType": "internship",
+    "createdBy": "669e9365ab977279b89fe28f",
+    "createdAt": "2023-11-06T22:20:43Z"
+  },
+  {
+    "company": "Walter LLC",
+    "position": "Media Manager II",
+    "status": "declined",
+    "jobType": "remote",
+    "createdBy": "669e9365ab977279b89fe28f",
+    "createdAt": "2023-11-02T05:18:32Z"
+  },
+  {
+    "company": "Hansen Inc",
+    "position": "Nurse",
+    "status": "pending",
+    "jobType": "part-time",
+    "createdBy": "669e9365ab977279b89fe28f",
+    "createdAt": "2024-01-23T05:14:21Z"
+  },
+  {
+    "company": "Kuvalis-Ondricka",
+    "position": "Food Chemist",
+    "status": "declined",
+    "jobType": "remote",
+    "createdBy": "669e9365ab977279b89fe28f",
+    "createdAt": "2024-03-25T12:21:42Z"
+  },
+  {
+    "company": "Kuhlman Group",
+    "position": "Systems Administrator I",
+    "status": "interview",
+    "jobType": "full-time",
+    "createdBy": "669e9365ab977279b89fe28f",
+    "createdAt": "2023-09-13T18:26:13Z"
+  },
+  {
+    "company": "Berge Group",
+    "position": "Recruiter",
+    "status": "declined",
+    "jobType": "full-time",
+    "createdBy": "669e9365ab977279b89fe28f",
+    "createdAt": "2024-07-03T17:50:57Z"
+  },
+  {
+    "company": "Mraz LLC",
+    "position": "Financial Analyst",
+    "status": "declined",
+    "jobType": "internship",
+    "createdBy": "669e9365ab977279b89fe28f",
+    "createdAt": "2024-06-12T22:53:39Z"
+  },
+  {
+    "company": "Homenick-Schuster",
+    "position": "Data Coordinator",
+    "status": "declined",
+    "jobType": "remote",
+    "createdBy": "669e9365ab977279b89fe28f",
+    "createdAt": "2024-05-31T17:53:25Z"
+  },
+  {
+    "company": "Miller-Russel",
+    "position": "Media Manager II",
+    "status": "pending",
+    "jobType": "part-time",
+    "createdBy": "669e9365ab977279b89fe28f",
+    "createdAt": "2023-12-04T11:34:28Z"
+  },
+  {
+    "company": "Halvorson-Williamson",
+    "position": "Technical Writer",
+    "status": "declined",
+    "jobType": "remote",
+    "createdBy": "669e9365ab977279b89fe28f",
+    "createdAt": "2023-11-02T17:20:52Z"
+  },
+  {
+    "company": "Konopelski-Farrell",
+    "position": "Programmer Analyst IV",
+    "status": "interview",
+    "jobType": "part-time",
+    "createdBy": "669e9365ab977279b89fe28f",
+    "createdAt": "2024-05-03T03:32:03Z"
+  },
+  {
+    "company": "Walsh, Predovic and Johns",
+    "position": "Human Resources Manager",
+    "status": "interview",
+    "jobType": "full-time",
+    "createdBy": "669e9365ab977279b89fe28f",
+    "createdAt": "2024-01-02T19:56:38Z"
+  },
+  {
+    "company": "Predovic, Mayer and Lesch",
+    "position": "Nurse Practicioner",
+    "status": "pending",
+    "jobType": "internship",
+    "createdBy": "669e9365ab977279b89fe28f",
+    "createdAt": "2024-03-28T15:32:25Z"
+  },
+  {
+    "company": "Lind Group",
+    "position": "Media Manager II",
+    "status": "declined",
+    "jobType": "full-time",
+    "createdBy": "669e9365ab977279b89fe28f",
+    "createdAt": "2024-01-08T01:14:28Z"
+  },
+  {
+    "company": "Weber Inc",
+    "position": "Compensation Analyst",
+    "status": "pending",
+    "jobType": "full-time",
+    "createdBy": "669e9365ab977279b89fe28f",
+    "createdAt": "2023-10-21T08:59:38Z"
+  },
+  {
+    "company": "Johns Inc",
+    "position": "VP Sales",
+    "status": "pending",
+    "jobType": "full-time",
+    "createdBy": "669e9365ab977279b89fe28f",
+    "createdAt": "2023-08-25T17:34:32Z"
+  },
+  {
+    "company": "Rosenbaum-Bogisich",
+    "position": "Recruiting Manager",
+    "status": "pending",
+    "jobType": "full-time",
+    "createdBy": "669e9365ab977279b89fe28f",
+    "createdAt": "2023-10-12T16:38:45Z"
+  },
+  {
+    "company": "Huel LLC",
+    "position": "Account Coordinator",
+    "status": "interview",
+    "jobType": "full-time",
+    "createdBy": "669e9365ab977279b89fe28f",
+    "createdAt": "2024-02-29T08:57:31Z"
+  },
+  {
+    "company": "Wiza-McKenzie",
+    "position": "Community Outreach Specialist",
+    "status": "declined",
+    "jobType": "internship",
+    "createdBy": "669e9365ab977279b89fe28f",
+    "createdAt": "2024-06-02T11:39:23Z"
+  },
+  {
+    "company": "Hudson Group",
+    "position": "Speech Pathologist",
+    "status": "pending",
+    "jobType": "remote",
+    "createdBy": "669e9365ab977279b89fe28f",
+    "createdAt": "2024-02-14T22:58:35Z"
+  },
+  {
+    "company": "Bradtke-Graham",
+    "position": "Senior Sales Associate",
+    "status": "interview",
+    "jobType": "part-time",
+    "createdBy": "669e9365ab977279b89fe28f",
+    "createdAt": "2024-06-21T01:30:48Z"
+  },
+  {
+    "company": "Reynolds, Armstrong and Morissette",
+    "position": "Software Engineer I",
+    "status": "interview",
+    "jobType": "remote",
+    "createdBy": "669e9365ab977279b89fe28f",
+    "createdAt": "2024-06-03T14:41:54Z"
+  },
+  {
+    "company": "Dickens-Waelchi",
+    "position": "General Manager",
+    "status": "declined",
+    "jobType": "internship",
+    "createdBy": "669e9365ab977279b89fe28f",
+    "createdAt": "2024-03-02T22:42:40Z"
+  },
+  {
+    "company": "Wolff and Sons",
+    "position": "Help Desk Technician",
+    "status": "interview",
+    "jobType": "part-time",
+    "createdBy": "669e9365ab977279b89fe28f",
+    "createdAt": "2023-12-05T21:45:22Z"
+  },
+  {
+    "company": "Windler, Tromp and Kris",
+    "position": "Programmer II",
+    "status": "declined",
+    "jobType": "internship",
+    "createdBy": "669e9365ab977279b89fe28f",
+    "createdAt": "2023-08-24T22:38:28Z"
+  },
+  {
+    "company": "Feeney, Bogan and Quigley",
+    "position": "Cost Accountant",
+    "status": "interview",
+    "jobType": "part-time",
+    "createdBy": "669e9365ab977279b89fe28f",
+    "createdAt": "2023-12-13T13:38:05Z"
+  },
+  {
+    "company": "Hettinger, Oberbrunner and Marks",
+    "position": "Recruiting Manager",
+    "status": "interview",
+    "jobType": "remote",
+    "createdBy": "669e9365ab977279b89fe28f",
+    "createdAt": "2023-08-10T03:12:50Z"
+  },
+  {
+    "company": "Jacobs Group",
+    "position": "Product Engineer",
+    "status": "interview",
+    "jobType": "remote",
+    "createdBy": "669e9365ab977279b89fe28f",
+    "createdAt": "2023-07-26T16:05:38Z"
+  },
+  {
+    "company": "Witting, Morar and Durgan",
+    "position": "Product Engineer",
+    "status": "pending",
+    "jobType": "part-time",
+    "createdBy": "669e9365ab977279b89fe28f",
+    "createdAt": "2024-05-23T18:48:32Z"
+  },
+  {
+    "company": "Koepp-Heidenreich",
+    "position": "Staff Scientist",
+    "status": "interview",
+    "jobType": "internship",
+    "createdBy": "669e9365ab977279b89fe28f",
+    "createdAt": "2023-12-11T06:29:46Z"
+  },
+  {
+    "company": "Bahringer Group",
+    "position": "Office Assistant I",
+    "status": "interview",
+    "jobType": "part-time",
+    "createdBy": "669e9365ab977279b89fe28f",
+    "createdAt": "2024-04-08T13:08:50Z"
+  },
+  {
+    "company": "Veum, Yundt and Corwin",
+    "position": "Legal Assistant",
+    "status": "interview",
+    "jobType": "full-time",
+    "createdBy": "669e9365ab977279b89fe28f",
+    "createdAt": "2024-02-15T19:01:31Z"
+  },
+  {
+    "company": "Jaskolski, Koss and Erdman",
+    "position": "Assistant Media Planner",
+    "status": "declined",
+    "jobType": "full-time",
+    "createdBy": "669e9365ab977279b89fe28f",
+    "createdAt": "2024-05-22T20:13:39Z"
+  },
+  {
+    "company": "Crona-Bahringer",
+    "position": "Administrative Assistant I",
+    "status": "interview",
+    "jobType": "remote",
+    "createdBy": "669e9365ab977279b89fe28f",
+    "createdAt": "2023-12-24T05:33:52Z"
+  },
+  {
+    "company": "Connelly-Pollich",
+    "position": "Speech Pathologist",
+    "status": "declined",
+    "jobType": "remote",
+    "createdBy": "669e9365ab977279b89fe28f",
+    "createdAt": "2024-02-29T11:16:31Z"
+  },
+  {
+    "company": "Baumbach-Davis",
+    "position": "Registered Nurse",
+    "status": "pending",
+    "jobType": "internship",
+    "createdBy": "669e9365ab977279b89fe28f",
+    "createdAt": "2023-08-04T00:07:48Z"
+  },
+  {
+    "company": "Bernhard-Harber",
+    "position": "Environmental Specialist",
+    "status": "declined",
+    "jobType": "internship",
+    "createdBy": "669e9365ab977279b89fe28f",
+    "createdAt": "2024-05-11T19:19:48Z"
+  },
+  {
+    "company": "Reynolds-Schulist",
+    "position": "Environmental Specialist",
+    "status": "declined",
+    "jobType": "remote",
+    "createdBy": "669e9365ab977279b89fe28f",
+    "createdAt": "2024-05-15T17:15:01Z"
+  },
+  {
+    "company": "Heller, Hills and Gorczany",
+    "position": "Food Chemist",
+    "status": "interview",
+    "jobType": "remote",
+    "createdBy": "669e9365ab977279b89fe28f",
+    "createdAt": "2024-02-13T05:28:35Z"
+  },
+  {
+    "company": "Koelpin, Dickinson and Reilly",
+    "position": "Desktop Support Technician",
+    "status": "pending",
+    "jobType": "remote",
+    "createdBy": "669e9365ab977279b89fe28f",
+    "createdAt": "2024-01-28T12:01:58Z"
+  },
+  {
+    "company": "Graham-Simonis",
+    "position": "Assistant Manager",
+    "status": "declined",
+    "jobType": "internship",
+    "createdBy": "669e9365ab977279b89fe28f",
+    "createdAt": "2023-10-25T22:41:49Z"
+  },
+  {
+    "company": "Connelly, Conn and Jacobs",
+    "position": "Tax Accountant",
+    "status": "interview",
+    "jobType": "part-time",
+    "createdBy": "669e9365ab977279b89fe28f",
+    "createdAt": "2023-08-21T15:37:46Z"
+  },
+  {
+    "company": "DuBuque, Predovic and Heathcote",
+    "position": "Office Assistant II",
+    "status": "interview",
+    "jobType": "part-time",
+    "createdBy": "669e9365ab977279b89fe28f",
+    "createdAt": "2023-12-23T11:46:09Z"
+  },
+  {
+    "company": "Koss Inc",
+    "position": "Quality Engineer",
+    "status": "interview",
+    "jobType": "internship",
+    "createdBy": "669e9365ab977279b89fe28f",
+    "createdAt": "2024-02-27T05:30:02Z"
+  },
+  {
+    "company": "Hyatt, Wunsch and McGlynn",
+    "position": "Environmental Specialist",
+    "status": "declined",
+    "jobType": "remote",
+    "createdBy": "669e9365ab977279b89fe28f",
+    "createdAt": "2024-05-28T19:24:32Z"
+  },
+  {
+    "company": "Rowe, Anderson and Wunsch",
+    "position": "Budget/Accounting Analyst IV",
+    "status": "pending",
+    "jobType": "remote",
+    "createdBy": "669e9365ab977279b89fe28f",
+    "createdAt": "2024-05-14T05:28:54Z"
+  },
+  {
+    "company": "Hintz and Sons",
+    "position": "Speech Pathologist",
+    "status": "declined",
+    "jobType": "internship",
+    "createdBy": "669e9365ab977279b89fe28f",
+    "createdAt": "2023-12-03T01:29:45Z"
+  },
+  {
+    "company": "Mohr, Jerde and Walker",
+    "position": "Engineer III",
+    "status": "interview",
+    "jobType": "internship",
+    "createdBy": "669e9365ab977279b89fe28f",
+    "createdAt": "2024-02-29T00:53:54Z"
+  },
+  {
+    "company": "Cartwright LLC",
+    "position": "VP Quality Control",
+    "status": "interview",
+    "jobType": "full-time",
+    "createdBy": "669e9365ab977279b89fe28f",
+    "createdAt": "2023-09-11T19:49:52Z"
+  },
+  {
+    "company": "Murazik-Bogisich",
+    "position": "Accounting Assistant I",
+    "status": "interview",
+    "jobType": "remote",
+    "createdBy": "669e9365ab977279b89fe28f",
+    "createdAt": "2024-03-13T09:13:44Z"
+  },
+  {
+    "company": "Bauch LLC",
+    "position": "Compensation Analyst",
+    "status": "declined",
+    "jobType": "full-time",
+    "createdBy": "669e9365ab977279b89fe28f",
+    "createdAt": "2023-12-15T10:41:58Z"
+  },
+  {
+    "company": "Bruen-Ratke",
+    "position": "Budget/Accounting Analyst I",
+    "status": "pending",
+    "jobType": "part-time",
+    "createdBy": "669e9365ab977279b89fe28f",
+    "createdAt": "2024-03-21T15:44:35Z"
+  },
+  {
+    "company": "Stehr, Schmeler and Paucek",
+    "position": "Administrative Officer",
+    "status": "pending",
+    "jobType": "internship",
+    "createdBy": "669e9365ab977279b89fe28f",
+    "createdAt": "2023-07-30T22:06:23Z"
+  },
+  {
+    "company": "Goyette, Collins and Hammes",
+    "position": "Editor",
+    "status": "pending",
+    "jobType": "full-time",
+    "createdBy": "669e9365ab977279b89fe28f",
+    "createdAt": "2023-10-04T09:08:50Z"
+  },
+  {
+    "company": "Wunsch LLC",
+    "position": "Nurse Practicioner",
+    "status": "declined",
+    "jobType": "part-time",
+    "createdBy": "669e9365ab977279b89fe28f",
+    "createdAt": "2024-06-05T23:20:30Z"
+  },
+  {
+    "company": "Ullrich, Bayer and Boyle",
+    "position": "Quality Control Specialist",
+    "status": "pending",
+    "jobType": "remote",
+    "createdBy": "669e9365ab977279b89fe28f",
+    "createdAt": "2023-12-18T20:44:45Z"
+  },
+  {
+    "company": "McLaughlin Inc",
+    "position": "Physical Therapy Assistant",
+    "status": "pending",
+    "jobType": "full-time",
+    "createdBy": "669e9365ab977279b89fe28f",
+    "createdAt": "2024-04-06T01:43:27Z"
+  },
+  {
+    "company": "Bashirian, Pfeffer and Wisoky",
+    "position": "Account Executive",
+    "status": "pending",
+    "jobType": "remote",
+    "createdBy": "669e9365ab977279b89fe28f",
+    "createdAt": "2024-01-23T09:20:33Z"
+  },
+  {
+    "company": "Sipes-Okuneva",
+    "position": "Dental Hygienist",
+    "status": "declined",
+    "jobType": "part-time",
+    "createdBy": "669e9365ab977279b89fe28f",
+    "createdAt": "2024-03-14T08:46:25Z"
+  },
+  {
+    "company": "Price and Sons",
+    "position": "Budget/Accounting Analyst I",
+    "status": "declined",
+    "jobType": "internship",
+    "createdBy": "669e9365ab977279b89fe28f",
+    "createdAt": "2024-02-13T03:55:34Z"
+  },
+  {
+    "company": "Paucek and Sons",
+    "position": "Automation Specialist IV",
+    "status": "interview",
+    "jobType": "part-time",
+    "createdBy": "669e9365ab977279b89fe28f",
+    "createdAt": "2024-05-04T07:39:31Z"
+  },
+  {
+    "company": "Kihn, Stroman and Mills",
+    "position": "Assistant Manager",
+    "status": "interview",
+    "jobType": "internship",
+    "createdBy": "669e9365ab977279b89fe28f",
+    "createdAt": "2024-02-28T15:32:05Z"
+  }
+]
